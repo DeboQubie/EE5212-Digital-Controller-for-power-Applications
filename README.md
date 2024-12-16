@@ -1,0 +1,1 @@
+This course, offered by IIT Madras, dives deep into the working of TI's F28379D microcontroller for power applications. See [course description](https://www.ee.iitm.ac.in/courses/syllabus/EE5212) for more information. 
